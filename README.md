@@ -57,7 +57,7 @@ Led a 6-member team to automate manual business workflows using Zapier, Notion, 
 
 | Degree | Institution | Year |
 |---|---|---|
-| Ontario Graduate Certificate, Data Analytics *(In Progress)* | Humber College | 2025–Present |
+| Ontario Graduate Certificate, Data Analytics *(In Progress)* | Humber College | 2025–2026 |
 | Business Analytics & Process Management Certificate | Sheridan College | 2024–2025 |
 | M.Sc. Mathematics | Maharaja Sayajirao University of Baroda | 2020–2022 |
 | B.Sc. Mathematics | Maharaja Sayajirao University of Baroda | 2017–2020 |
