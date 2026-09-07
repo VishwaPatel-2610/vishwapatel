@@ -28,7 +28,7 @@ I hold an M.Sc. in Mathematics and bring 1+ year of professional experience at N
 
 ## 📂 Featured Projects
 
-### 🚌 [Transit Ridership Trend Analysis]([https://github.com/vishwapatel/transit-ridership-analysis](https://github.com/VishwaPatel-2610/bikeshare-toronto-analysis))
+### 🚌 [Transit Ridership Trend Analysis](([https://github.com/vishwapatel/transit-ridership-analysis](https://github.com/VishwaPatel-2610/bikeshare-toronto-analysis)))
 *Team Lead · Humber College · 2025 – Present*
 
 Analyzing public transit ridership datasets using Python, SQL, and Power Query to uncover demand patterns, seasonal trends, and service utilization insights. Building interactive Power BI dashboards for data-driven transit planning recommendations.
