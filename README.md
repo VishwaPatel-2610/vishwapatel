@@ -46,13 +46,6 @@ Led a 6-member team to automate manual business workflows using Zapier, Notion, 
 
 ---
 
-## 📊 GitHub Stats
-
-![Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishwaPatel-2610&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaPatel-2610&layout=compact&theme=default&hide_border=true)
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Year |
